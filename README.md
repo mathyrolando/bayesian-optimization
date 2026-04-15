@@ -22,6 +22,3 @@ and implementing Cholesky-based inference for numerical stability.
 1. Install Julia (v1.x)
 2. Open and run `Tp-final-optimizacion.ipynb`
 
-## References
-
-[Papers o recursos que usaste]

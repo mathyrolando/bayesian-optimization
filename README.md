@@ -20,5 +20,5 @@ and implementing Cholesky-based inference for numerical stability.
 ## How to run
 
 1. Install Julia (v1.x)
-2. Open and run `Tp-final-optimizacion.ipynb`
+2. Open and run `bayesian_optimization.ipynb`
 
